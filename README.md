@@ -21,11 +21,11 @@ Radiology management
 Statistics and epidemiology
 
 ## Technologies used for MEDNETICA
-Programming language: Java
-Web framework: Struts
-Database: PostgreSQL
-Front-end framework: React, JSP, PrimeFaces
-JavaScript library: jQuery
+Programming language: Java <br>
+Web framework: Struts   <br>
+Database: PostgreSQL   <br>
+Front-end framework: React, JSP, PrimeFaces   <br>
+JavaScript library: jQuery <br>
 Other technologies: Hibernate, Redis, RabbitMQ, Celery
 
 ## Scope
@@ -39,15 +39,15 @@ Here are some of the specific goals of the MEDNETICA project:
 
 ## How it Works 
 
-MEDNETICA also provides a variety of tools and features to help hospitals and clinics manage their operations more efficiently. These include:
-•	Patient scheduling: MEDNETICA allows hospitals and clinics to schedule appointments online, and to send reminders to patients before their appointments.
-•	Clinical data management: MEDNETICA provides a variety of tools to help hospitals and clinics manage patient clinical data, including vital signs, lab results, imaging results, and medications.
-•	Financial management: MEDNETICA provides a variety of tools to help hospitals and clinics manage their finances, including billing, insurance, and payments.
-•	Pharmacy management: MEDNETICA provides a variety of tools to help hospitals and clinics manage their pharmacies, including inventory management and dispensing of medications.
-•	Inventory management: MEDNETICA provides a variety of tools to help hospitals and clinics manage their inventory, including supplies and equipment.
-•	Reporting and analytics: MEDNETICA provides a variety of tools to help hospitals and clinics generate reports on a variety of data, such as patient demographics, clinical data, financial data, and inventory data.
+MEDNETICA also provides a variety of tools and features to help hospitals and clinics manage their operations more efficiently. These include:  <br>
+•	Patient scheduling: MEDNETICA allows hospitals and clinics to schedule appointments online, and to send reminders to patients before their appointments. <br>
+•	Clinical data management: MEDNETICA provides a variety of tools to help hospitals and clinics manage patient clinical data, including vital signs, lab results, imaging results, and medications. <br>
+•	Financial management: MEDNETICA provides a variety of tools to help hospitals and clinics manage their finances, including billing, insurance, and payments. <br>
+•	Pharmacy management: MEDNETICA provides a variety of tools to help hospitals and clinics manage their pharmacies, including inventory management and dispensing of medications. <br>
+•	Inventory management: MEDNETICA provides a variety of tools to help hospitals and clinics manage their inventory, including supplies and equipment. <br>
+•	Reporting and analytics: MEDNETICA provides a variety of tools to help hospitals and clinics generate reports on a variety of data, such as patient demographics, clinical data, financial data, and inventory data. <br>
 MEDNETICA is a powerful and flexible HIMS that can be used to improve the efficiency and effectiveness of hospitals and clinics of all sizes. 
-Here is an example of how MEDNETICA will be used in a hospital:
+Here is an example of how MEDNETICA will be used in a hospital: <br>
 1.	A patient schedules an appointment online using the MEDNETICA patient portal.
 2.	The patient arrives at the hospital and checks in at the reception desk. The receptionist uses MEDNETICA to look up the patient's appointment and to print out a chart.
 3.	The patient is seen by the doctor, who uses MEDNETICA to review the patient's medical history and to order any necessary tests.
